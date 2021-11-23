@@ -1,1 +1,2 @@
 # odin-recipes
+This is a breif introduction to my odin recipes project. This project will contain some of my favorite recipesThe skills I have learned so far involing html and css are very limited but can be used to create a basic website with bold and italic text as well as showcase images. My skills can also alow me to demonstrate my knowledge with adding absolute links.
